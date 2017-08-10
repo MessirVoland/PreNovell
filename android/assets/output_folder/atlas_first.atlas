@@ -1,0 +1,40 @@
+
+atlas_first.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button_cross
+  rotate: false
+  xy: 2, 2
+  size: 480, 762
+  orig: 480, 762
+  offset: 0, 0
+  index: 0
+button_cross
+  rotate: false
+  xy: 484, 2
+  size: 480, 762
+  orig: 480, 762
+  offset: 0, 0
+  index: 1
+
+atlas_first2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button_go
+  rotate: false
+  xy: 2, 2
+  size: 480, 762
+  orig: 480, 762
+  offset: 0, 0
+  index: 0
+button_go
+  rotate: false
+  xy: 484, 2
+  size: 480, 762
+  orig: 480, 762
+  offset: 0, 0
+  index: 1
