@@ -4,7 +4,7 @@ pipeline {
     stage('Stage 1') {
       steps {
         withGradle() {
-          build 'Job'
+          build 'gradle-site-plugin'
         }
 
       }
